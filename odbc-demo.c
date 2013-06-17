@@ -10,7 +10,7 @@
 #define	BUFFER_LEN	1024
 #define	OK		0
 #define	KO		-1
-#define	TIMEOUT		5	/* Timeout is set to 10 seconds */
+#define	TIMEOUT		5	/* Timeout is set to 5 seconds */
 #define	REC_NUMBER	1	/* Pour la fonction SQLGetDiagRec */
 #define	SQLSTATE_LEN	7
 #define	DB_NAME_LEN	128
