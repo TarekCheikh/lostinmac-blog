@@ -11,7 +11,7 @@
 EXEC SQL INCLUDE SQLCA;
 
 /* Les identifiants pour se connecter a la base */
-#define SYBASE_USER	"tarek1"
+#define SYBASE_USER	"tarek"
 #define SYBASE_PASSWORD	"123456"
 #define	SYBASE_SERVER	"TCOSERVER"	/* Defini dans le fichier "/opt/sybase/interfaces" */
 
