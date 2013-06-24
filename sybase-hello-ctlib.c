@@ -17,7 +17,7 @@
 /* Informations de connexion */
 #define DB_SERVER	"TCOSERVER"	/* defini dans le fichier /opt/sybase/interfaces */
 /* #define DB_SERVER     NULL */	/* Dans ce cas il faut faire : export DSQUERY="TCOSERVER" */
-#define DB_USER		"tarek1"
+#define DB_USER		"tarek"
 #define DB_PASSWORD	"123456"
 
 
