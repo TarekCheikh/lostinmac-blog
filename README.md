@@ -5,4 +5,4 @@ This repository holds some files essentially realted to my blog posts from : www
 
 Enjoy.
 
-Tarek OULD CHEIKH
+Tarek CHEIKH
